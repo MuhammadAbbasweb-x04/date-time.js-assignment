@@ -10,8 +10,8 @@
 
 // Q2
 // Answer
-let satartTime = new Date();
-let andtime = new Date();
-console.log(andtime)
+// let satartTime = new Date();
+// let andtime = new Date();
+// console.log(andtime)
 
 
